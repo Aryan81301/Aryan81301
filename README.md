@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan81301&label=Profile%20views&color=0e75b6&style=flat" alt="aryan81301" /> </p>
 
-- 🔭 I’m currently working on MACHINE LEARNING App **BREAST-CANCER-PREDICTION**
+- 🔭 I’m currently working on GENERATIVE AI App **MENTAL-HEALTH-CHATBOT**
 
 - 🌱 I’m currently learning all the resources which help to become DATA SCIENTIST **PYTHON,FLASK,MYSQL,ORACLE,HTML,CSS,HIVE,HADOOP**
 
